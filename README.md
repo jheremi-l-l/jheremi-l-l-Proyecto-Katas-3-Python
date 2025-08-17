@@ -29,14 +29,14 @@ Asegúrate de tener Python 3 instalado en tu sistema.
 🎯 Objetivos del proyecto
 - Practicar resolución de problemas con Python
 - Mejorar la lógica de programación
-- Prepararse para entrevistas técnicas y retos de código
 
 🧠 Aprendizajes
 Durante el desarrollo de estas katas he reforzado conceptos como:
 - Uso de condicionales y bucles
 - Manipulación de cadenas y listas
-- Funciones y modularidad
+- Funciones
 - Pensamiento algorítmico
+- Programación Orientada a Objetos
 
 📌 Autor
 Jheremi L. L.
