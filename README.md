@@ -23,7 +23,7 @@ python kata1.py
 Asegúrate de tener Python 3 instalado en tu sistema.
 
 📚 Tecnologías utilizadas
-- Python 3.x
+- Python 3.13.3
 - Editor: Visual Studio Code / cualquier IDE de tu preferencia
 
 🎯 Objetivos del proyecto
